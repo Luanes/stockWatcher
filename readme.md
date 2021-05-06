@@ -28,11 +28,11 @@
 
 <h4> 3.1 Track stocks </h5>
 
-<h6> Run <b><i>python -c "import trackStocks; trackStocks.handler('','')"</b></i> to track stocks from the google sheets</h6>
+<h6> Run <code><b><i>python -c "import trackStocks; trackStocks.handler('','')"</b></i></code> to track stocks from the google sheets</h6>
 
 <h4> 3.2 Stock Quotation </h5>
 
-<h6> Run <b><i>python -c "import stockQuotation; stockQuotation.handler('','')"</b></i> to track stocks from the google sheets</h6>
+<h6> Run <code><b><i>python -c "import stockQuotation; stockQuotation.handler('','')"</b></i></code> to track stocks from the google sheets</h6>
 
 <h4>Google Sheet sample </h4>
 
