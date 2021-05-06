@@ -19,7 +19,7 @@
 <h3> 2. Configuration </h4>
 <ol>
     <li> Change Creds.json to your Google Sheets API credentials </li>
-    <li> On libs change the mongoDB connection on SheetWatcher.py, Stock.py and StockQuotation.py</li>
+    <li> On libs change the mongoDB connection on SheetWatcher.py, stockQuotation.py and trackStocks.py</li>
 </ol>
 
 <hr>

@@ -2,3 +2,5 @@ __pycache__/trackStocks.cpython-39.pyc
 readme.md
 libs/__pycache__/SheetWatcher.cpython-39.pyc
 libs/__pycache__/Stock.cpython-39.pyc
+__pycache__/stockQuotation.cpython-39.pyc
+libs/__pycache__/StockQuotation.cpython-39.pyc

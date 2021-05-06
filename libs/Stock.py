@@ -1,5 +1,3 @@
-import pymongo
-
 class Stock:
     def __init__(self, stock_params : dict):
         self.stock_name = stock_params["stock_name"]
